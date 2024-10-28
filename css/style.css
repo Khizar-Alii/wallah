@@ -234,7 +234,7 @@ header .info {
 
 header .info .col {
   display: inline-block;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 header .info .col {
@@ -264,7 +264,7 @@ header .info .social i {
 }
 
 header .info strong {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 header.header-bg {
@@ -2366,7 +2366,7 @@ header.header-light .h-phone span{
 
 .de-bloglist-type-1 .d-date {
   position: relative;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   padding-left: 18px;
 }
@@ -2400,7 +2400,7 @@ header.header-light .h-phone span{
 }
 
 .de-post-type-1 .d-meta {
-  font-size: 12px;
+  font-size: 14px;
   margin-bottom: 10px;
 }
 
@@ -2609,7 +2609,7 @@ header.header-light .h-phone span{
   padding-left: 20px;
   margin-left: 20px;
   border-left: solid 1px #ddd;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .dark-scheme .comment-info .c_reply {
@@ -2617,7 +2617,7 @@ header.header-light .h-phone span{
 }
 
 .comment-info .c_date {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .blog-list h4 {
@@ -2729,7 +2729,7 @@ header.header-light .h-phone span{
 }
 
 .p-title {
-  font-size: 12px;
+  font-size: 14px;
   margin-bottom: 20px;
 }
 
@@ -2899,7 +2899,7 @@ header.header-light .h-phone span{
 }
 
 .post-image .d-tagline span{
-  font-size: 12px;
+  font-size: 14px;
   color:#ffffff;
   text-transform: uppercase;
   display: inline-block;
@@ -2919,7 +2919,7 @@ header.header-light .h-phone span{
   border:none;
   color:#ffffff;
   background: var(--primary-color);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
 }
 .blog-slide {
@@ -3154,7 +3154,7 @@ header.header-light .h-phone span{
 
 .radio-opt label {
   min-width: 62px;
-  font-size: 12px;
+  font-size: 14px;
   vertical-align: middle;
   text-align: center;
   cursor: pointer;
@@ -3976,7 +3976,7 @@ a.btn-text-light {
 .btn-add_to_cart,
 a.btn-add_to_cart {
   border: solid 1px #bbb;
-  font-size: 12px;
+  font-size: 14px;
   border-radius: 0;
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
@@ -4014,7 +4014,7 @@ a.btn-line,
   text-transform: uppercase;
   text-decoration: none;
   padding: 5px 20px;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 2px;
   border: none;
   border-radius:0;
@@ -4121,7 +4121,7 @@ a.btn-border {
   padding: 10px 30px;
   min-width: 120px;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 2px;
 }
 
@@ -5016,7 +5016,7 @@ h4.s3 {
 h4.s3 {
   font-family: var(--body-font);
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 15px;
 }
 
@@ -5237,7 +5237,7 @@ h6 {
 }
 
 h4.s1 {
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 20px;
   text-transform: uppercase;
   font-weight: 500;
@@ -6349,7 +6349,7 @@ i.font60 {
   content: "\f00c";
   margin-right: 15px;
   padding: 3px;
-  font-size: 12px;
+  font-size: 14px;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -6451,7 +6451,7 @@ ol.ol-style-1.dark li::before{
 }
 
 .de-server.s2 li{
-  font-size: 12px;
+  font-size: 14px;
   padding: 8px 12px;
   border: solid 2px rgba(255, 255, 255, .2);
   line-height: 1em;
@@ -6822,7 +6822,7 @@ ol.ol-style-1.dark li::before{
 
 .pricing-table .bottom i {
   margin-right: 15px;
-  font-size: 12px;
+  font-size: 14px;
   padding: 5px;
   border-radius: 6px;
   -moz-border-radius: 6px;
@@ -7142,7 +7142,7 @@ ol.ol-style-1.dark li::before{
 }
 
 .de_pricing-table .d-action p {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .de_pricing-table .d-list {
@@ -7463,7 +7463,7 @@ ol.ol-style-1.dark li::before{
 
 .skill-bar .value {
   color: #ccc;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   float: right;
   margin-top: -40px;
@@ -8380,7 +8380,7 @@ ol.ol-style-1.dark li::before{
 
 .tab_style_4 h4 {
   margin: 0;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .de_tab .de_tab_content.tc_style-1 {
@@ -10125,7 +10125,7 @@ object {
   display: inline-block;
   background: #ffffff;
   padding: 0 10px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   left: 30px;
   line-height: 1.8em;
@@ -10412,7 +10412,7 @@ p.d-small {
 }
 
 p.d-smaller {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5em;
 }
 
@@ -10795,7 +10795,7 @@ a.de-card:hover {
 
 .pnb-text {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -10949,7 +10949,7 @@ i.medium {
 }
 
 i.small {
-  font-size: 12px;
+  font-size: 14px;
   padding: 4px;
   text-align: center;
   display: inline-block;
@@ -11024,7 +11024,7 @@ a:hover,
 
 #gallery-carousel .item {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   width: 100%;
   cursor: e-resize;
 }
@@ -11124,7 +11124,7 @@ a:hover,
 .carousel-item .pf_text .title .type {
   display: block;
   color: rgba(255, 255, 255, 0);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
 }
 
@@ -11224,7 +11224,7 @@ a:hover,
 }
 
 .project-name {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   display: block;
 }
@@ -11699,7 +11699,7 @@ footer .widget{
   display: inline-block;
   padding: 2px 3px 2px 3px;
   line-height: 1.4em;
-  font-size: 12px;
+  font-size: 14px;
   width: 60px;
   font-weight: bold;
   text-align: center;
@@ -11734,7 +11734,7 @@ footer .widget{
 }
 
 .widget_tags li a {
-  font-size: 12px;
+  font-size: 14px;
   text-decoration: none;
   color: #fff !important;
   padding: 5px 10px 7px 10px;
@@ -12006,7 +12006,7 @@ i.bg-color-secondary {
 
 .d_wrap_sm-box h6{
     font-weight: 500;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .dark-scheme .d_wrap_sm-box h6{
@@ -13705,7 +13705,7 @@ p.slider-teaser{
 
 .sw-caption-thumb .d-tag{
   color:#ffffff;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   background: var(--primary-color);
   padding: 2px 10px;
@@ -13861,7 +13861,7 @@ body.dark-scheme::-webkit-scrollbar-track,
   position: absolute;
   text-transform: uppercase;
   letter-spacing: .5px;
-  font-size: 12px;
+  font-size: 14px;
   top: 20px;
   right: 20px;
   padding: 0px 12px;
@@ -13932,7 +13932,7 @@ body.dark-scheme::-webkit-scrollbar-track,
     z-index: 1002;
     margin-left: 30px;
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
     top: 50%;
     left: 16px;
     transform: translate(-50%, -50%);
@@ -13966,7 +13966,7 @@ body.dark-scheme::-webkit-scrollbar-track,
     margin-left: 30px;
     text-align: center;
     letter-spacing: 2px;
-    font-size: 12px;
+    font-size: 14px;
     top: 50%;
     right: 15px;
 }
@@ -14061,7 +14061,7 @@ body.dark-scheme::-webkit-scrollbar-track,
   font-weight: bold;
   width:100%;
   text-align:center;
-  font-size: 12px;
+  font-size: 14px;
   z-index: 1;
 }
 
@@ -14653,7 +14653,7 @@ div.round,
 .ext {
   font-weight: 600;
   display: inline-block;
-  font-size: 12px;
+  font-size: 14px;
   border-radius: 3px;
   margin: 0 5px 10px 5px;
   padding: 10px;
@@ -17515,7 +17515,7 @@ a.read_more i {
 
 #btn_copy {
   position: absolute;
-  font-size: 12px;
+  font-size: 14px;
   padding: 4px 10px;
   line-height: 1em;
   border: solid 1px #d2d2d2;
@@ -19004,7 +19004,7 @@ a.btn-search-big:hover {
 }
 
 .separator span i {
-  font-size: 12px;
+  font-size: 14px;
   padding: 0;
   margin: 0;
   float: none;
