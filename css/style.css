@@ -299,7 +299,7 @@ header.autoshow.scrollOn {
 }
 
 header.autoshow.scrollOff {
-  opacity: ;
+  /* opacity: ; */
   top: -120px;
 }
 
