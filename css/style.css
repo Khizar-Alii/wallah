@@ -21183,8 +21183,9 @@ border-radius:20px 0 0 20px;
 .half-fluid .image {
   background-size: cover;
   background-position: center;
-  min-height: 400px;
+  /* min-height: 400px; */
   height: 100%;
+  
 }
 
 @media (min-width: 992px) {
